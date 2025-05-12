@@ -1,0 +1,3 @@
+nAMP: ((taxonomy_id:2 OR taxonomy_id:2157 OR taxonomy_id:4751) AND (NOT keyword:KW-0929) AND (length:[10 TO 50]))
+AMP: ((taxonomy_id:2 OR taxonomy_id:2157 OR taxonomy_id:4751) AND (keyword:KW-0929) AND (length:[10 TO 50]))
+Link: https://www.uniprot.org/
